@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//XCUIElementTypeApplication[@name=\"SkinTracker-NIH\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField[2]"
+}

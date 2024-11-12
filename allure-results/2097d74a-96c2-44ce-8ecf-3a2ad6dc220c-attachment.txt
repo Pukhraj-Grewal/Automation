@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//XCUIElementTypeStaticText[@elementId=\"68000000-0000-0000-8106-000000000000\"]"
+}

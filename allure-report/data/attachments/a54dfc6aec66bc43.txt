@@ -1,0 +1,10 @@
+{
+  "script": "mobile: tap",
+  "args": [
+    {
+      "x": 275,
+      "y": 500,
+      "timeout": 5000
+    }
+  ]
+}

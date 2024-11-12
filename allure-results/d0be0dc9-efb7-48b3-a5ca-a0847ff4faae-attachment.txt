@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther"
+}

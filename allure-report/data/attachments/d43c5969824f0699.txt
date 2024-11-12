@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "**/XCUIElementTypeStaticText[`elementId == \"69000000-0000-0000-B206-000000000000\"`]"
+}
